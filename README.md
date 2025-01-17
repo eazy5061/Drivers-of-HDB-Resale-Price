@@ -7,19 +7,14 @@
 <br>
 
 ## Project Goals
-1. Start a end-to-end project, from scraping data, to cleaning, modelling, and deploying the model
+1. Start the project by scraping data, cleaning, modelling, and deploying the model
 2. To **identify** the drivers of HDB resale prices in Singapore.
 3. To **scrape** and **engineer** additional features from online public datasets that might also influence resale prices
-4. To **deploy** the model onto a web app, allowing for HDB resale prices prediction for different HDB features
 
 <br>
 
 ## About the Data
-The HDB resale price data was downloaded from [Data.gov.sg](https://data.gov.sg/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view), containing 197,012 resale transactions from 2017 to 2024.
-
-## Introduction
-The Housing & Development Board (HDB) is Singapore's public housing authority. They plan and develop Singapore's housing estates; building homes and transforming towns to create a quality living environment for all. 
-<br>The purpose of this project is to delve the resale prices trends, the contributing factors and predictive models using data analysis and machine learning.
+The HDB resale price data was downloaded from [Data.gov.sg](https://data.gov.sg/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view), containing 197,012 resale transactions from January 2017 to December 2024.
 
 <br>
 
