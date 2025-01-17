@@ -33,8 +33,31 @@ The block and street_name are separate in the both dataset and this needs to com
 
 <br>
 
-## EDA
+## Exploratory Data Analysis
+### Pivot table by town, flat type and resale prices
+<img src="Pivot Table.png" alt="Screenshot of dashboard" width="850" height="480">
 
+## Number of flats sold
+<b>By Town</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>By Flat Type</b>
+<br>
+<img src="Number of flats sold by town.png" alt="Screenshot of dashboard" width="350" height="300"> <img src="Number of flats sold by flat type.png" alt="Screenshot of dashboard" width="350" height="300">  
+* From number of resale flats sold by town bar chart, the town having the highest number of resale flats sold is Sengkang and the town having the lowest number of resale flats sold is Bukit Timah.
+* From the number of resale flats sold by flat type bar chart, the highest number of resale flats type sold is 4 room flat. The lowest number of resale flats sold is 1 Room flat (76 units) and Multi-Generation flat (80 units).
+
+<br>
+
+## Number of flats sold based on lease commence year
+<img src="Number of flats sold by lease commence year.png" alt="Screenshot of dashboard" width="350" height="300">
+
+<br>
+
+<b>From bar chart of number of resale flats sold per lease commence date (data is from past HDB resales transaction from Jan 2017 to Nov 2020),</b>
+* Resale flats sold per lease commence date varies.
+* Top 2 highest number of resale flats sold based on their lease commence years in 1985 and 2015. The latter could possibly because a lot of flats reached their minimum occupation period.
+
+<br>
+
+## Average resale price
 
 
 
@@ -44,6 +67,7 @@ The block and street_name are separate in the both dataset and this needs to com
 
 
 </br>
+  
 <details>
   <summary>Click me</summary>
     
