@@ -34,40 +34,86 @@ The block and street_name are separate in the both dataset and this needs to com
 <br>
 
 ## Exploratory Data Analysis
-### Pivot table by town, flat type and resale prices
-<img src="Pivot Table.png" alt="Screenshot of dashboard" width="850" height="480">
+### Heatmap of Resale Price by Town and Flat Type
+<img src="Heatmap of average resale price by town & flat type.jpg" alt="Screenshot of dashboard" width="800" height="520">
+
+<br>
+
+* The highest average resale price is an Executive Flat located in Queenstown; The lowest mean resale price is a 1 Room Flat in Bukit Merah.
+* 1 Room Flats are only transacted in the town of Bukit Merah.
+* Multi-Generation flats are sold in towns of Tampines, Yishun and Bishan.
+* Central Area has the highest average resale price for the 5 Room Flat among the 26 towns.
+
+<br>
 
 ## Number of flats sold
-<b>By Town</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>By Flat Type</b>
+<b>By Town</b> 
+
 <br>
-<img src="Number of flats sold by town.png" alt="Screenshot of dashboard" width="350" height="300"> <img src="Number of flats sold by flat type.png" alt="Screenshot of dashboard" width="350" height="300">  
-* From number of resale flats sold by town bar chart, the town having the highest number of resale flats sold is Sengkang and the town having the lowest number of resale flats sold is Bukit Timah.
-* From the number of resale flats sold by flat type bar chart, the highest number of resale flats type sold is 4 room flat. The lowest number of resale flats sold is 1 Room flat (76 units) and Multi-Generation flat (80 units).
+
+<img src="Number of resale flats sold by Town.jpg" alt="Screenshot of dashboard" width="750" height="500">  
+
+<b>From number of resale flats sold by town bar chart</b>
+
+* The town having the highest number of resale flats sold is Sengkang .
+* The town having the lowest number of resale flats sold is Bukit Timah.
+
+
+
+<br>
+
+<b>By Flat Type</b>
+
+<br>
+
+<img src="Number of flats sold by flat type.jpg" alt="Screenshot of dashboard" width="550" height="400"> 
+
+<b>From the number of resale flats sold by flat type bar chart</b>
+
+* The highest number of resale flats type sold is 4 room flat.
+* The lowest number of resale flats sold is 1 Room flat (76 units) and Multi-Generation flat (80 units).
 
 <br>
 
 ## Number of flats sold based on lease commence year
-<img src="Number of flats sold by lease commence year.png" alt="Screenshot of dashboard" width="350" height="300">
+<img src="Number of flats sold by lease commence year.jpg" alt="Screenshot of dashboard" width="1100" height="600">
 
 <br>
 
-<b>From bar chart of number of resale flats sold per lease commence date (data is from past HDB resales transaction from Jan 2017 to Nov 2020),</b>
+<b>From bar chart of number of resale flats sold per lease commence date (data is from past HDB resales transaction from Jan 2017 to Nov 2020)</b>
 * Resale flats sold per lease commence date varies.
 * Top 2 highest number of resale flats sold based on their lease commence years in 1985 and 2015. The latter could possibly because a lot of flats reached their minimum occupation period.
 
 <br>
 
 ## Average resale price
+<b>By Town</b> 
 
+<br>
 
+<img src="Average resale price by town.jpg" alt="Screenshot of dashboard" width="750" height="500">  
 
+* Bukit Timah town has the highest average resale price while Yishun town has the lowest average resale price.
+* Central region (Bukit Timah, Bishan, Bukit Merah, Central area and Queenstown) generally have higher average resale price among other towns.
+* Bukit Timah has the highest median resale price while Ang Mo Kio has the lowest median resale price.
+* The blue dotted line represents the nation-wide average resale price.
+* Above the line means that the flats in that town is more expensive than the nation-wide average resale price.
 
+<br>
 
+<b>By Flat Type</b>
 
+<img src="Average resale price by flat type.jpg" alt="Screenshot of dashboard" width="850" height="500">  
 
+* Multi-generation flat type has the highest average resale price, while 1 room flat type has the lowest average resale price.
+* There is not much significant difference in the average and median distributions for all flat types.
 
-</br>
-  
+<br>
+
+<b>By Storey Range</b>
+
+<img src="Average resale price by Storey Range.jpg" alt="Screenshot of dashboard" width="850" height="500">  
+ 
 <details>
   <summary>Click me</summary>
     
