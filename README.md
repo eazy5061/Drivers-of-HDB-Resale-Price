@@ -228,4 +228,4 @@ b>Relationship between numbers of amenities in 2KM radius</b>
 
 Click to connect to my LinkedIn
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https:www.linkedin.com/in/hongliang-tea)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https:www.linkedin.com/in/hongliang-tea/)
