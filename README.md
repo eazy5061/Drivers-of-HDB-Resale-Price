@@ -8,6 +8,7 @@ I am an aspiring data analyst who has a passion in working with data to resolve 
 # Drivers of HDB Resale Price
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETED-green.svg)](https://shields.io/)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hongliang-tea/)
 
 <img src="HDB flats.jpg" alt="Screenshot of dashboard" width="850" height="450">
 
@@ -228,4 +229,4 @@ b>Relationship between numbers of amenities in 2KM radius</b>
 
 Click to connect to my LinkedIn
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https:www.linkedin.com/in/hongliang-tea/)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hongliang-tea/)
