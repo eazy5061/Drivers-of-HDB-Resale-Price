@@ -5,7 +5,7 @@ I am an aspiring data analyst who has a passion in working with data to resolve 
 
 <br>
 
-# Analysis of HDB Resale Flats Price from Jan 2017 to Dec 2024
+# Drivers of HDB Resale Price
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETED-green.svg)](https://shields.io/)
 
