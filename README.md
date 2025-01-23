@@ -222,8 +222,8 @@ b>Relationship between numbers of amenities in 2KM radius</b>
 
 <br>
 
-* The challenges for this project is that it has only 7 days duration before submission and the first 2 days is the selection of the topic for the project which I am still stuck which topic shall I do.
-* After decided the topic, I started off aimlessly as I feel that I am running out of time. After wasted sometime doing aimlessly and I decided to approache my trainer, Bishmer for advice. Managed to catch up on time and complete it within the schedule. Stress handling and time management is important.
+* The challenges for this project is that it has only 7 days duration before submission and the first 2 days is the selection of the topic for the project which I was still stuck on which topic shall I do.
+* After decided the topic, I started off aimlessly as I felt that I am running out of time. After wasted sometime doing aimlessly, I decided to approach my trainer, Bishmer for advice. Managed to catch up on time and complete it within the schedule. Stress handling and time management is important.
 
 <br>
 
