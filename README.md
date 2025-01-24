@@ -136,6 +136,9 @@ Resale prices in 2018 and 2019 decreases as compared to year 2017. In 2020, the 
 Resale price fluctuates from 2017 to 2020. In year 2018, the resale price went up. It went down in 2019 and up again in 2020.
 * For Multi-Generation Flat
 Resale price initially increases from 2017 to 2019, but in 2020, the resale price goes below that of 2017.
+
+<br>
+
 <b>Conclusion:</b>
 * There are similarities increasing trend of resale prices from year 2021 across all flat types.
 * The reason for the decline in the resale prices from 1 room to executive flats in 2019 could be due to lesser demand during Covid19 pandemic.
