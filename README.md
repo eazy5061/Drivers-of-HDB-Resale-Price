@@ -88,7 +88,7 @@ The block and street_name are separate in the both dataset and this needs to com
 
 <br>
 
-<b>From bar chart of number of resale flats sold per lease commence date (data is from past HDB resales transaction from Jan 2017 to Nov 2020)</b>
+<b>From bar chart of number of resale flats sold per lease commence date (data is from past HDB resales transaction from Jan 2017 to Nov 2024)</b>
 * Resale flats sold per lease commence date varies.
 * Top 2 highest number of resale flats sold based on their lease commence years in 1985 and 2015. The latter could possibly because a lot of flats reached their minimum occupation period.
 
@@ -150,7 +150,7 @@ Resale price initially increases from 2017 to 2019, but in 2020, the resale pric
 
 <img src="Relationship between Resale Price and Storey Range.jpg" alt="Screenshot of dashboard" width="850" height="600">
 
-* R2 score of 0.9882 indicates that there is a very strong positive linear relationship between resale price and storey range. The P value is 0.0 which means that there is statistically significance correlation between the resale price and storey range. 
+* R squared score of 0.9882 indicates that there is a very strong positive linear relationship between resale price and storey range. The P value is 0.0 which means that there is statistically significance correlation between the resale price and storey range. 
 * Based on the scatter plot, we can derive that higher floor flats are sold at a higher resale price.
 
 <br>
@@ -159,7 +159,7 @@ Resale price initially increases from 2017 to 2019, but in 2020, the resale pric
 
 <img src="Relationship between Resale Price and Floor Area.jpg" alt="Screenshot of dashboard" width="900" height="600">
 
-* (R2) score of 0.9029 indicates that there is a very strong positive linear relationship between resale price and floor area. The P value is 0.0 which means that there is statistically significance correlation between the resale price and floor area.
+* R squared score of 0.9029 indicates that there is a very strong positive linear relationship between resale price and floor area. The P value is 0.0 which means that there is statistically significance correlation between the resale price and floor area.
 * Based on the scatter plot, we can derive that larger area flats are sold at a higher resale price.
 
 <br>
@@ -182,7 +182,7 @@ Resale price initially increases from 2017 to 2019, but in 2020, the resale pric
 
 <br>
 
-b>Relationship between numbers of amenities in 2KM radius</b>
+<b>Relationship between numbers of amenities in 2KM radius</b>
 
 <img src="Resale price vs distance from nearest amenities in 2km radius.jpg" alt="Screenshot of dashboard" width="800" height="150">
 
@@ -218,7 +218,7 @@ b>Relationship between numbers of amenities in 2KM radius</b>
 
 # What have I learnt and challenges met
 
-* One of the achievement is the heatmap of the HDB resales transactions which indicate the number of transactions in that location. So the more red the area, the more transactions are done at that area. We can zoom in and out of the map to see the transactions more clearly, but was unable to show it in GitHub as it is in html format.
+* One of the achievement is the heatmap of the HDB resales transactions which indicate the number of transactions of the location. The redness on the map indicates the transactions in that area. We can zoom in and out of the map to see the transactions more clearly, but was unable to show it in GitHub as it is in html format.
 
 <br>
 
